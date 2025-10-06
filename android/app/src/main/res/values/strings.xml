@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Asha Sutra</string>
+    <string name="title_activity_main">Asha Sutra</string>
+    <string name="package_name">com.ashasutra.app</string>
+    <string name="custom_url_scheme">com.ashasutra.app</string>
+</resources>

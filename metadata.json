@@ -1,0 +1,7 @@
+{
+  "name": "Village Health Monitor",
+  "description": "A web application for ASHA workers in rural India to track village health patterns, detect disease outbreaks, and manage patient data with offline-first capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
